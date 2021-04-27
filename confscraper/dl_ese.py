@@ -67,28 +67,29 @@ for v in volumes:
         if issue_to_ymd(i.text) in completed:
             print("Already downloaded {}".format(i.text))
             continue
-        issues += [i.attrs["href"], i.text]
+        issues.append([i.attrs["href"], i.text])
 
 # %% Get papers
 papers_no_abstract = []
 progress = 0
-with Pool(12) as p:
-    for i in p.imap_unordered(download_issue, issues):
-        papers_no_abstract += i
-        progress += 1
-        print(progress)
+if len(issues) > 0:
+    with Pool(min(len(issues), 4)) as p:
+        for i in p.imap_unordered(download_issue, issues):
+            papers_no_abstract += i
+            progress += 1
+            print(progress)
 
 # %% Download papers in parallel
-papers_with_abstract = []
-progress = 0
-with Pool(24) as p:
-    for i in p.imap_unordered(get_abstract, papers_no_abstract):
-        papers_with_abstract.append(i)
-        progress += 1
-        print(progress)
+if len(papers_no_abstract) > 0:
+    papers_with_abstract = []
+    progress = 0
+    with Pool(min(len(papers_no_abstract), 4)) as p:
+        for i in p.imap_unordered(get_abstract, papers_no_abstract):
+            papers_with_abstract.append(i)
+            progress += 1
+            print(i["issue"], progress)
 
-# %% Get dataframe
-if len(papers_with_abstract) > 0:
+    # Get dataframe
     df = pd.DataFrame.from_records(papers_with_abstract)
     df.issue = df.issue.apply(issue_to_ymd)
     df = df.sort_values("issue", ascending=0)
