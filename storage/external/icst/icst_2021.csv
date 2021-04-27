@@ -1,0 +1,25 @@
+title,abstract
+Fast Kernel Error Propagation Analysis in Virtualized Environments.
+Assessing the Effectiveness of Input and Output Coverage Criteria for Testing Quantum Programs.
+Anomaly Detection with Digital Twin in Cyber-Physical Systems.
+Address-Aware Query Caching for Symbolic Execution.
+A Large-scale Study on API Misuses in the Wild.
+Modeling with Mocking.
+Fail-Safe Execution of Deep Learning based Systems through Uncertainty Monitoring.
+System and Software Testing in Automotive: an Empirical Study on Process Improvement Areas.
+Self determination: A comprehensive strategy for making automated tests more effective and efficient.
+An Empirical Study of Flaky Tests in Python.
+Automatic Program Repair as Semantic Suggestions: An Empirical Study.
+Learning-Based Fuzzing of IoT Message Brokers.
+Artefact Relation Graphs for Unit Test Reuse Recommendation.,"The reuse of artefacts is fundamental to software development and can reduce development cost and time as well as improve the quality of the output. For example, developers often create new tests from existing tests by copying and adapting them. However, reuse opportunities are often missed due to the cost of discovering suitable artefacts to reuse. Development artefacts form groups that have both internal connections between artefacts of the same type, and cross-group connections between artefacts of different types. When a pair of artefact groups are considered, the cross-group connections form a bipartite graph. This paper presents RASHID, an abstract framework to assist artefact reuse by predicting edges in these bipartite graphs. We instantiate RASHID with RELATEST, an approach to assist developers to reuse tests. RELATEST recommends existing tests that are closely related to a new function and can, therefore, be easily adapted to test the new function. Our evaluation finds that RELATEST’s recommendations result in an average 58% reduction in developer effort (measured in tokens), for 75% of functions, resulting in an overall saving of 43% of the effort required to create tests. A user study revealed that, on average, developers needed 10 minutes less to develop a test when given RELATEST recommendations and all developers reported that the recommendations were useful."
+Efficiently Finding Data Flow Subsumptions.
+Dissecting Strongly Subsuming Second-Order Mutants.
+MANDOLINE: Dynamic Slicing of Android Applications with Trace-Based Alias Analysis.
+Simulation for Robotics Test Automation: Developer Perspectives.
+Uncertainty-aware Exploration in Model-based Testing.
+Exploring True Test Overfitting in Dynamic Automated Program Repair using Formal Methods.
+IoTBox: Sandbox Mining to Prevent Interaction Threats in IoT Systems.
+Demystifying the Challenges of Formally Specifying API Properties for Runtime Verification.
+A Search-Based Testing Framework for Deep Neural Networks of Source Code Embedding.
+Quality Metrics and Oracles for Autonomous Vehicles Testing.
+Synthesizing Multi-threaded Tests from Sequential Traces to Detect Communication Deadlocks.
