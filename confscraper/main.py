@@ -41,7 +41,8 @@ df = df[
     | df.abstract.str.contains(r"{}".format(search_string), case=False, regex=True)
 ]
 df = df[df.venue != "iswc"]
-
+df.abstract = df.abstract.fillna("")
+df.abstract = df.abstract.apply(lambda x: ".".join(x.split(".")[:20]))
 
 # OUTPUT AN HTML FILE
 with open(cs.outputs_dir() / "table.html", "w") as f:
