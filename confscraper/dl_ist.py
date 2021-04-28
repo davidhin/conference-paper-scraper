@@ -20,14 +20,14 @@ import confscraper as cs
 
 
 # %%
-def download_ist_volume(vol_num: int):
+def download_volume(vol_num: int, journal: str = "information-and-software-technology"):
     """Download IST volume into pandas dataframe."""
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     driver = webdriver.Chrome(options=chrome_options)
     driver.get(
-        "https://www.sciencedirect.com/journal/information-and-software-technology/vol/{}/suppl/C".format(
-            vol_num
+        "https://www.sciencedirect.com/journal/{}/vol/{}/suppl/C".format(
+            journal, vol_num
         )
     )
     date = driver.find_element_by_xpath("//h3[@class='js-issue-status text-s']").text
@@ -43,7 +43,13 @@ def download_ist_volume(vol_num: int):
     WebDriverWait(driver, 10, ignored_exceptions=ignored_exceptions).until(
         expected_conditions.presence_of_element_located((By.CLASS_NAME, "switch-check"))
     )
-    driver.find_element_by_class_name("switch-check").click()
+    while True:
+        try:
+            driver.find_element_by_class_name("switch-check").click()
+        except Exception as E:
+            print(E)
+        else:
+            break
 
     previews = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located((By.CLASS_NAME, "js-article-list-item"))
@@ -80,11 +86,26 @@ def download_ist_volume(vol_num: int):
     return df
 
 
-def vol_num_to_year(vol_num: int):
+def vol_num_to_year_ist(vol_num: int):
     """Get year from volume number."""
     year = 2021
     month = 9
     start = 137
+    while True:
+        if vol_num == start:
+            return "{}%02d".format(year) % month
+        start -= 1
+        month -= 1
+        if month == 0:
+            month = 12
+            year -= 1
+
+
+def vol_num_to_year_jss(vol_num: int):
+    """Get year from volume number."""
+    year = 2021
+    month = 8
+    start = 178
     while True:
         if vol_num == start:
             return "{}%02d".format(year) % month
@@ -102,14 +123,14 @@ def download_and_save_ist(vol_num: int):
         i.split("_")[-1].split(".")[0]
         for i in glob(str(cs.external_dir() / "ist/*.csv"))
     ]
-    if vol_num_to_year(vol_num) in completed:
+    if vol_num_to_year_ist(vol_num) in completed:
         print("Already completed {}".format(vol_num))
         return None
 
     print("Downloading {}".format(vol_num))
     while True:
         try:
-            df = download_ist_volume(vol_num)
+            df = download_volume(vol_num=vol_num)
         except Exception as E:
             print(E, "Retrying...")
         else:
@@ -122,7 +143,43 @@ def download_and_save_ist(vol_num: int):
     df.to_csv(savedir / "ist_{}.csv".format(date), index=0)
 
 
+def download_and_save_jss(vol_num: int):
+    """Download and save JSS volumn."""
+    completed = [
+        i.split("_")[-1].split(".")[0]
+        for i in glob(str(cs.external_dir() / "jss/*.csv"))
+    ]
+    if vol_num_to_year_jss(vol_num) in completed:
+        print("Already completed {}".format(vol_num))
+        return None
+
+    print("Downloading {}".format(vol_num))
+    while True:
+        try:
+            df = download_volume(
+                vol_num=vol_num, journal="journal-of-systems-and-software"
+            )
+        except Exception as E:
+            print(E, "Retrying...")
+        else:
+            print("Completed {}".format(vol_num))
+            break
+    date = df.iloc[0]["date"]
+    df = df[["title", "abstract"]]
+    savedir = cs.get_dir(cs.external_dir() / "jss")
+    df = df.replace(r"\n", " ", regex=True)
+    df.to_csv(savedir / "jss_{}.csv".format(date), index=0)
+
+
 # %% Download in parallel
 with Pool(6) as p:
-    for _ in p.imap_unordered(download_and_save_ist, range(138, 130, -1)):
+    for _ in p.imap_unordered(download_and_save_ist, range(138, 136, -1)):
         pass
+
+# %% Download in parallel
+with Pool(6) as p:
+    for _ in p.imap_unordered(download_and_save_jss, range(184, 130, -1)):
+        pass
+
+
+# %%
