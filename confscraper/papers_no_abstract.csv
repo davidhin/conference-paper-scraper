@@ -1,0 +1,297 @@
+link,title,issue
+https://www.computer.org/csdl/journal/ts/2020/08/08457263/1mgaWLhv0dy,Value-Flow-Based Demand-Driven Pointer Analysis for C and C++,202008
+https://www.computer.org/csdl/journal/ts/2020/08/08466000/13zn9e4orkY,How Practitioners Perceive Automated Bug Report Management Techniques,202008
+https://www.computer.org/csdl/journal/ts/2020/08/08468105/1lxmCr48H0Q,The Adoption of JavaScript Linters in Practice: A Case Study on ESLint,202008
+https://www.computer.org/csdl/journal/ts/2020/08/08468085/1mgaWYd6dxK,"On the Nature of Merge Conflicts: A Study of 2,731 Open Source Java Projects Hosted by GitHub",202008
+https://www.computer.org/csdl/journal/ts/2020/05/08423692/13rRUxC0SFL,Extending Abstract Interpretation to Dependency Analysis of Database Applications,202005
+https://www.computer.org/csdl/journal/ts/2020/05/08428477/13rRUxly8UT,Chaff from the Wheat: Characterizing and Determining Valid Bug Reports,202005
+https://www.computer.org/csdl/journal/ts/2020/05/08428471/13rRUxASude,Observation-Enhanced QoS Analysis of Component-Based Systems,202005
+https://www.computer.org/csdl/journal/ts/2020/05/08428438/13rRUwgQpk2,On Scheduling Constraint Abstraction for Multi-Threaded Program Verification,202005
+https://www.computer.org/csdl/journal/ts/2020/05/08430603/13rRUx0xPVO,Analyzing Families of Experiments in SE: A Systematic Mapping Study,202005
+https://www.computer.org/csdl/journal/ts/2020/11/08493303/14qdcRChuAy,How Well Do Change Sequences Predict Defects? Sequence Learning from Software Changes,202011
+https://www.computer.org/csdl/journal/ts/2020/11/08493348/14qdcQsKzO8,Understanding and Detecting Fragmentation-Induced Compatibility Issues for Android Apps,202011
+https://www.computer.org/csdl/journal/ts/2020/11/08494821/14s8M7jWQb6,The Impact of Class Rebalancing Techniques on the Performance and Interpretation of Defect Prediction Models,202011
+https://www.computer.org/csdl/journal/ts/2020/11/08500345/14vsD2jnmE0,Dynamic Update of Discrete Event Controllers,202011
+https://www.computer.org/csdl/journal/ts/2020/11/08502824/14C6d4Z1Sj6,"Perceptions, Expectations, and Challenges in Defect Prediction",202011
+https://www.computer.org/csdl/journal/ts/2020/10/08485732/14dcDXDJqxR,ARJA: Automated Repair of Java Programs via Multi-Objective Genetic Programming,202010
+https://www.computer.org/csdl/journal/ts/2020/10/08486696/14eRywdt44g,Changeset-Based Topic Modeling of Software Repositories,202010
+https://www.computer.org/csdl/journal/ts/2020/10/08493293/14qdcSHgPhF,Bridging Semantic Gaps between Natural Languages and APIs with Word Embedding,202010
+https://www.computer.org/csdl/journal/ts/2020/10/08493285/14qdcPBXbC9,Automating Intention Mining,202010
+https://www.computer.org/csdl/journal/ts/2020/10/08493260/14qdcRChuAt,Metamorphic Relations for Enhancing System Understanding and Use,202010
+https://www.computer.org/csdl/journal/ts/2020/12/08502853/14C6d3658Iw,Deep Semantic Feature Learning for Software Defect Prediction,202012
+https://www.computer.org/csdl/journal/ts/2020/12/08502801/14C6d3aCINy,Search-Based Crash Reproduction and Its Impact on Debugging,202012
+https://www.computer.org/csdl/journal/ts/2020/12/08506423/14DL8SnwZk4,Cognitive Biases in Software Engineering: A Systematic Mapping Study,202012
+https://www.computer.org/csdl/journal/ts/2020/12/08509148/14Fq0WXjmAs,Key Stakeholders’ Value Propositions for Feature Selection in Software-Intensive Products: An Industrial Case Study,202012
+https://www.computer.org/csdl/journal/ts/2020/12/08511058/14H4WMh20et,Platform-Independent Dynamic Taint Analysis for JavaScript,202012
+https://www.computer.org/csdl/journal/ts/2020/12/08528892/17D45XvMcdf,A Model-Integrated Approach to Designing Self-Protecting Systems,202012
+https://www.computer.org/csdl/journal/ts/2020/06/08438906/13rRUxYIN6c,An Interleaving Approach to Combinatorial Testing and Failure-Inducing Interaction Identification,202006
+https://www.computer.org/csdl/journal/ts/2020/06/08438933/13rRUyv53He,A Combinatorial Testing-Based Approach to Fault Localization,202006
+https://www.computer.org/csdl/journal/ts/2020/06/08451922/13rRUNvyab0,"Software Configuration Engineering in Practice Interviews, Survey, and Systematic Literature Review",202006
+https://www.computer.org/csdl/journal/ts/2020/06/08453036/13rRUytWFaY,A Test Case Prioritization Genetic Algorithm Guided by the Hypervolume Indicator,202006
+https://www.computer.org/csdl/journal/ts/2020/09/08472790/13WBGMLAAf2,Tell You a Definite Answer: Whether Your Data is Tainted During Thread Scheduling,202009
+https://www.computer.org/csdl/journal/ts/2020/09/08477161/1mq8rbYigtG,An Interactive and Dynamic Search-Based Approach to Software Refactoring Recommendations,202009
+https://www.computer.org/csdl/journal/ts/2020/09/08477174/14gwrs6qHTO,Uncovering the Periphery: A Qualitative Survey of Episodic Volunteering in Free/Libre and Open Source Software Communities,202009
+https://www.computer.org/csdl/journal/ts/2020/09/08478000/1mq8p51fJ0k,Large-Scale Third-Party Library Detection in Android Markets,202009
+https://www.computer.org/csdl/journal/ts/2020/09/08478004/1mq8nv0OFxe,Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation,202009
+https://www.computer.org/csdl/journal/ts/2020/09/08485395/1mq8oIp1irC,How Do Users Revise Answers on Technical Q&A Websites? A Case Study on Stack Overflow,202009
+https://www.computer.org/csdl/journal/ts/2020/09/09199188/1ncgAcvKsve,Corrections to “Automatic and Accurate Expansion of Abbreviations in Parameters”,202009
+https://www.computer.org/csdl/journal/ts/2020/07/08453858/1bJTzc9fDHy,Debugging Static Analysis,202007
+https://www.computer.org/csdl/journal/ts/2020/07/08453850/1lu2QK4YlNK,Does Reviewer Recommendation Help Developers?,202007
+https://www.computer.org/csdl/journal/ts/2020/07/08454758/13rRUygT7gY,Automatic and Accurate Expansion of Abbreviations in Parameters,202007
+https://www.computer.org/csdl/journal/ts/2020/07/08456606/13rRUwfZBX2,Ensuring the Observability of Structural Test Obligations,202007
+https://www.computer.org/csdl/journal/ts/2020/07/08457304/1lu2QWVsMMM,Studying Bad Updates of Top Free-to-Download Apps in the Google Play Store,202007
+https://www.computer.org/csdl/journal/ts/2020/07/08469102/1lu2Rn9EIYo,Finding Faster Configurations Using FLASH,202007
+https://www.computer.org/csdl/journal/ts/2021/02/08576579/17D45VtKixa,PPChecker: Towards Accessing the Trustworthiness of Android Apps’ Privacy Policies,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08580420/17D45W9KVH4,"Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study",202102
+https://www.computer.org/csdl/journal/ts/2021/02/08588375/17D45Xtvp8m,Coverage Prediction for Accelerating Compiler Testing,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08606278/17D45XeKgu3,Inductive Validity Cores,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08606261/17D45VsBU5F,App Store Effects on Software Engineering Practices,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08608002/17D45W2Wyy6,The Impact of Correlated Metrics on the Interpretation of Defect Models,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08607117/17D45WaTkla,An Empirical Study of Fault Localization Families and Their Combinations,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08611396/17D45WaTkdX,Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08613795/17D45WaTkmc,Too Many User-Reviews! What Should App Developers Look at First?,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08613913/17D45WrVgcJ,Specifying Callback Control Flow of Mobile Apps Using Finite Automata,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08620369/17D45WK5AjH,Mining Treatment-Outcome Constructs from Sequential Software Engineering Data,202102
+https://www.computer.org/csdl/journal/ts/2021/02/08627980/1mq8mxchp8k,A Theoretical and Empirical Analysis of Program Spectra Diagnosability,202102
+https://www.computer.org/csdl/journal/ts/2021/04/08651318/17WX58qcfrW,Automatic Detection and Update Suggestion for Outdated API Names in Documentation,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08653409/17YCN5xhPt6,Rebooting Research on Detecting Repackaged Android Apps: Literature Review and Benchmark,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08658125/187ZD32O0Du,Understanding How and Why Developers Seek and Analyze API-Related Opinions,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08658138/187ZCMEkrQs,The Effect of Work Environments on Productivity and Satisfaction of Software Engineers,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08658120/187ZDceMxP2,Lightweight Assessment of Test-Case Effectiveness Using Source-Code-Quality Indicators,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08662719/18cSQQDqZAQ,A Layered Reference Architecture for Metamodels to Tailor Quality Modeling and Analysis,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08664196/1mq8mkdh0fm,Studying Task Processes for Improving Programmer Productivity,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08665968/18l6LikUPde,Dealing with Non-Functional Requirements in Model-Driven Development: A Survey,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08665932/18l6L2MFsm4,Software Development Process Ambidexterity and Project Performance: A Coordination Cost-Effectiveness View,202104
+https://www.computer.org/csdl/journal/ts/2021/04/08669958/18wJE10dcEE,An Empirical Study of Obsolete Answers on Stack Overflow,202104
+https://www.computer.org/csdl/journal/ts/2021/01/08515084/14NIz8skL9T,Symbolic Refinement of Extended State Machines with Applications to the Automatic Derivation of Sub-Components and Controllers,202101
+https://www.computer.org/csdl/journal/ts/2021/01/08532309/17D45WHONjQ,"A Systematic Literature Review on Bad Smells–5 W's: Which, When, What, Who, Where",202101
+https://www.computer.org/csdl/journal/ts/2021/01/08540022/17D45X0yjSs,Automatic Feature Learning for Predicting Vulnerable Software Components,202101
+https://www.computer.org/csdl/journal/ts/2021/01/08540431/17D45XfSETX,CBGA-ES+: A Cluster-Based Genetic Algorithm with Non-Dominated Elitist Selection for Supporting Multi-Objective Test Optimization,202101
+https://www.computer.org/csdl/journal/ts/2021/01/08546762/17D45WB0qbu,Beyond Technical Aspects: How Do Community Smells Influence the Intensity of Code Smells?,202101
+https://www.computer.org/csdl/journal/ts/2021/01/08565892/17D45W2WyxN,Evaluating Model-Driven Development Claims with Respect to Quality: A Family of Experiments,202101
+https://www.computer.org/csdl/journal/ts/2021/01/08565973/17D45X2fUFk,A Study of Feature Scattering in the Linux Kernel,202101
+https://www.computer.org/csdl/journal/ts/2021/01/08565907/17D45XreC6t,Mining Fix Patterns for FindBugs Violations,202101
+https://www.computer.org/csdl/journal/ts/2021/01/08576657/17D45W1Oa2d,"Automatically ‘Verifying’ Discrete-Time Complex Systems through Learning, Abstraction and Refinement",202101
+https://www.computer.org/csdl/journal/ts/2021/01/08598894/17D45VsBU6l,Automated Documentation of Android Apps,202101
+https://www.computer.org/csdl/journal/ts/2021/01/09318456/1qdTfrrUVGw,2020 Index IEEE Transactions on Software Engineering Vol. 46,202101
+https://www.computer.org/csdl/journal/ts/2021/03/08630054/17D45WXIkGj,Mining Likely Analogical APIs Across Third-Party Libraries via Large-Scale Unsupervised API Semantics Embedding,202103
+https://www.computer.org/csdl/journal/ts/2021/03/08633335/17D45W1Oa1V,Which Commits Can Be CI Skipped?,202103
+https://www.computer.org/csdl/journal/ts/2021/03/08640044/17D45WIXbPi,Generic Adaptive Scheduling for Efficient Context Inconsistency Detection,202103
+https://www.computer.org/csdl/journal/ts/2021/03/08643804/17PYEkOuVCY,"A Progression Model of Software Engineering Goals, Challenges, and Practices in Start-Ups",202103
+https://www.computer.org/csdl/journal/ts/2021/03/08643972/17PYEjG6pmZ,Automatic Mining of Opinions Expressed About APIs in Stack Overflow,202103
+https://www.computer.org/csdl/journal/ts/2021/03/08643998/17PYElVL3mG,Toxic Code Snippets on Stack Overflow,202103
+https://www.computer.org/csdl/journal/ts/2021/03/08643844/17PYElnHbL7,What Predicts Software Developers’ Productivity?,202103
+https://www.computer.org/csdl/journal/ts/2021/03/08651396/17WX59ViG76,Automatically Assessing Code Understandability,202103
+https://www.computer.org/csdl/journal/ts/2021/03/08651426/17WX57VxzoY,Topology-Specific Synthesis of Self-Stabilizing Parameterized Systems with Constant-Space Processes,202103
+https://www.computer.org/csdl/journal/ts/2021/03/08651329/17WX57S8nQd,Exploring Community Smells in Open-Source: An Automated Approach,202103
+https://www.computer.org/csdl/journal/ts/2020/03/08382315/13rRUIM2VIL,Safety Practices in Requirements Engineering: The Uni-REPM Safety Module,202003
+https://www.computer.org/csdl/journal/ts/2020/03/08383962/13rRUwj7cqK,Automated Selection of Optimal Model Transformation Chains via Shortest-Path Algorithms,202003
+https://www.computer.org/csdl/journal/ts/2020/03/08396273/13rRUwh80Dk,Analyzing the Effects of Bugs on Software Interfaces,202003
+https://www.computer.org/csdl/journal/ts/2020/03/08405609/13rRUwhHcSA,"An Empirical Comparison of Combinatorial Testing, Random Testing and Adaptive Random Testing",202003
+https://www.computer.org/csdl/journal/ts/2020/03/08405597/13rRUxlgxYe,A Framework for Quantitative Modeling and Analysis of Highly (Re)configurable Systems,202003
+https://www.computer.org/csdl/journal/ts/2020/04/08409284/13rRUxD9gZe,Requirements Engineering for Safety-Critical Systems: An Interview Study with Industry Practitioners,202004
+https://www.computer.org/csdl/journal/ts/2020/04/08419296/13rRUxYrbWm,A Framework for Temporal Verification Support in Domain-Specific Modelling,202004
+https://www.computer.org/csdl/journal/ts/2020/04/08423082/1j4Gw1KE45W,ConTesa: Directed Test Suite Augmentation for Concurrent Software,202004
+https://www.computer.org/csdl/journal/ts/2020/04/08423658/13rRUypp59z,Leveraging Historical Associations between Requirements and Source Code to Identify Impacted Classes,202004
+https://www.computer.org/csdl/journal/ts/2020/04/08425769/1jbjaQtJOq4,A Look into Programmers’ Heads,202004
+https://www.computer.org/csdl/journal/ts/2019/12/08338426/13rRUzphDzB,A Systematic Evaluation of Static API-Misuse Detectors,201912
+https://www.computer.org/csdl/journal/ts/2019/12/08345680/13rRUxNEqRR,Integrative Double Kaizen Loop (IDKL): Towards a Culture of Continuous Learning and Sustainable Improvements for Software Organizations,201912
+https://www.computer.org/csdl/journal/ts/2019/12/08352718/13rRUxYIMX1,Automating Change-Level Self-Admitted Technical Debt Determination,201912
+https://www.computer.org/csdl/journal/ts/2019/12/08356128/13rRUEgarl8,LEILA: Formal Tool for Identifying Mobile Malicious Behaviour,201912
+https://www.computer.org/csdl/journal/ts/2019/12/08359087/13rRUzphDzC,A Comprehensive Investigation of the Role of Imbalanced Learning for Software Defect Prediction,201912
+https://www.computer.org/csdl/journal/ts/2019/12/08360512/13rRUygT7aV,CHiP: A Configurable Hybrid Parallel Covering Array Constructor,201912
+https://www.computer.org/csdl/journal/ts/2020/02/08370133/13rRUB7a12V,Motivation and Satisfaction of Software Engineers,202002
+https://www.computer.org/csdl/journal/ts/2020/02/08372636/13rRUy2YM0v,Identifying Failure-Causing Schemas in the Presence of Multiple Faults,202002
+https://www.computer.org/csdl/journal/ts/2020/02/08373739/13rRUxAAT2Z,An Integrated Approach for Effective Injection Vulnerability Analysis of Web Applications Through Security Slicing and Hybrid Constraint Solving,202002
+https://www.computer.org/csdl/journal/ts/2020/02/08374985/13rRUyv53Hd,Machine Learning-Based Prototyping of Graphical User Interfaces for Mobile Apps,202002
+https://www.computer.org/csdl/journal/ts/2020/01/08357494/13rRUytF43e,Need for Sleep: The Impact of a Night of Sleep Deprivation on Novice Developers’ Performance,202001
+https://www.computer.org/csdl/journal/ts/2020/01/08359344/13rRUxC0SQw,Automatically Categorizing Software Technologies,202001
+https://www.computer.org/csdl/journal/ts/2020/01/08360943/13rRUzpzeCK,Use and Misuse of Continuous Integration Features: An Empirical Study of Projects That (Mis)Use Travis CI,202001
+https://www.computer.org/csdl/journal/ts/2020/01/08384304/13rRUwInvAh,Incentivizing Deep Fixes in Software Economies,202001
+https://www.computer.org/csdl/journal/ts/2020/01/08370748/13rRUzpzeCL,A Multi-Study Investigation into Dead Code,202001
+https://www.computer.org/csdl/journal/ts/2020/01/08419310/13rRUxjQydr,"On the Understandability of Temporal Properties Formalized in Linear Temporal Logic, Property Specification Patterns and Event Processing Language",202001
+https://www.computer.org/csdl/journal/ts/2020/01/08952832/1gqqlRDr5rG,Corrections to “Detecting Bugs by Discovering Expectations and Their Violations”,202001
+https://www.computer.org/csdl/journal/ts/2020/01/08952817/1gqqkhjpI08,2019 Reviewers List,202001
+https://www.computer.org/csdl/journal/ts/2020/01/08952733/1gqqk8AFRde,2019 Index IEEE Transactions on Software Engineering Vol. 45,202001
+https://www.computer.org/csdl/journal/ts/2019/08/08283537/13rRUxZ0nXM,A Systematic Literature Review of Applications of the Physics of Notations,201908
+https://www.computer.org/csdl/journal/ts/2019/08/08283568/13rRUwbJD6H,A Systematic Review of Interaction in Search-Based Software Engineering,201908
+https://www.computer.org/csdl/journal/ts/2019/08/08283529/13rRUxBa57P,Instance Migration Validity for Dynamic Evolution of Data-Aware Processes,201908
+https://www.computer.org/csdl/journal/ts/2019/08/08289349/1cMB7PT6M4E,Verification Templates for the Analysis of User Interface Software Design,201908
+https://www.computer.org/csdl/journal/ts/2019/08/08283605/13rRUxBa52B,VT-Revolution: Interactive Programming Video Tutorial Authoring and Watching System,201908
+https://www.computer.org/csdl/journal/ts/2019/05/08240964/13rRUwInvAg,Automatic Detection and Removal of Ineffective Mutants for the Mutation Analysis of Relational Database Schemas,201905
+https://www.computer.org/csdl/journal/ts/2019/05/08128506/13rRUwIF6n0,Automatic Identification and Classification of Software Development Video Tutorial Fragments,201905
+https://www.computer.org/csdl/journal/ts/2019/05/08233151/13rRUwInvgT,Coverage-Based Greybox Fuzzing as Markov Chain,201905
+https://www.computer.org/csdl/journal/ts/2019/05/08170269/13rRUwInvLj,Decomposition-Based Approach for Model-Based Test Generation,201905
+https://www.computer.org/csdl/journal/ts/2019/05/08194898/13rRUIJcWfi,"The Good, the Bad and the Ugly: A Study of Security Decisions in a Cyber-Physical Systems Game",201905
+https://www.computer.org/csdl/journal/ts/2019/11/08329518/13rRUxCitAh,How Do Static and Dynamic Test Case Prioritization Techniques Perform on Modern Software Systems? An Extensive Study on GitHub Projects,201911
+https://www.computer.org/csdl/journal/ts/2019/11/08329264/1eTOHpl18Fa,Bellwethers: A Baseline Method for Transfer Learning,201911
+https://www.computer.org/csdl/journal/ts/2019/11/08331909/13rRUygT7aU,Microtask Programming,201911
+https://www.computer.org/csdl/journal/ts/2019/11/08338420/13rRUy3xY9Y,Accurate and Scalable Cross-Architecture Cross-OS Binary Code Search with Emulation,201911
+https://www.computer.org/csdl/journal/ts/2019/11/08338061/1eTOH8uIT7O,Approximate Oracles and Synergy in Software Energy Search Spaces,201911
+https://www.computer.org/csdl/journal/ts/2019/10/08316943/13rRUwdrdMv,A Screening Test for Disclosed Vulnerabilities in FOSS Components,201910
+https://www.computer.org/csdl/journal/ts/2019/10/08337801/13rRUwInv6d,Creating Rich and Representative Personas by Discovering Affordances,201910
+https://www.computer.org/csdl/journal/ts/2019/10/08318656/13rRUxOvebC,Detecting Bugs by Discovering Expectations and Their Violations,201910
+https://www.computer.org/csdl/journal/ts/2019/10/08306117/13rRUwI5U9x,Network-Clustered Multi-Modal Bug Localization,201910
+https://www.computer.org/csdl/journal/ts/2019/10/08325321/1e9he0zFYK4,UniDoSA: The Unified Specification and Detection of Service Antipatterns,201910
+https://www.computer.org/csdl/journal/ts/2019/09/08307259/13rRUxOdDa2,Asymmetric Release Planning: Compromising Satisfaction against Dissatisfaction,201909
+https://www.computer.org/csdl/journal/ts/2019/09/08307099/13rRUxBa5tA,Fully Reflective Execution Environments: Virtual Machines for More Flexible Software,201909
+https://www.computer.org/csdl/journal/ts/2019/09/08303758/13rRUwh80Dj,How Developers Diagnose Potential Security Vulnerabilities with a Static Analysis Tool,201909
+https://www.computer.org/csdl/journal/ts/2019/09/08304576/13rRUx0geBz,Predictive Mutation Testing,201909
+https://www.computer.org/csdl/journal/ts/2019/09/08305644/13rRUxASuOW,Test Generation and Test Prioritization for Simulink Models with Dynamic Behavior,201909
+https://www.computer.org/csdl/journal/ts/2019/03/08118155/13rRUILLkFr,Automatically Exploring Tradeoffs Between Software Output Fidelity and Energy Costs,201903
+https://www.computer.org/csdl/journal/ts/2019/03/08119867/13rRUxly8US,Competition-Based Crowdsourcing Software Development: A Multi-Method Study from a Customer Perspective,201903
+https://www.computer.org/csdl/journal/ts/2019/03/08116886/13rRUxly8Zc,"Developer Testing in the IDE: Patterns, Beliefs, and Behavior",201903
+https://www.computer.org/csdl/journal/ts/2019/03/08114229/13rRUxASur1,Integrating Technical Debt Management and Software Quality Management Processes: A Normative Framework and Field Tests,201903
+https://www.computer.org/csdl/journal/ts/2019/03/08119545/13rRUypp59y,MSeer—An Advanced Technique for Locating Multiple Bugs in Parallel,201903
+https://www.computer.org/csdl/journal/ts/2019/07/08255666/13rRUEgs2uX,A Deep Learning Model for Estimating Story Points,201907
+https://www.computer.org/csdl/journal/ts/2019/07/08268667/13rRUwvT9i2,Design Rule Spaces: A New Model for Representing and Analyzing Software Architecture,201907
+https://www.computer.org/csdl/journal/ts/2019/07/08263202/13rRUyYjK6I,The Impact of Automated Parameter Optimization on Defect Prediction Models,201907
+https://www.computer.org/csdl/journal/ts/2019/07/08267085/13rRUxd2b0l,Toward Methodological Guidelines for Process Theories and Taxonomies in Software Engineering,201907
+https://www.computer.org/csdl/journal/ts/2019/06/08241837/13rRUxYIN6b,Automatic Loop Summarization via Path Dependency Analysis,201906
+https://www.computer.org/csdl/journal/ts/2019/06/08252721/13rRUxcsYNL,ConPredictor: Concurrency Defect Prediction in Real-World Applications,201906
+https://www.computer.org/csdl/journal/ts/2019/06/08240710/13rRUNvyaaZ,makeSense: Simplifying the Integration of Wireless Sensor Networks into Business Processes,201906
+https://www.computer.org/csdl/journal/ts/2019/06/08249828/13rRUyuNsyQ,“Sampling” as a Baseline Optimizer for Search-Based Software Engineering,201906
+https://www.computer.org/csdl/journal/ts/2019/06/08240740/13rRUxBa5dC,Text Filtering and Ranking for Security Bug Report Prediction,201906
+https://www.computer.org/csdl/journal/ts/2019/06/08248781/17PYEiNBqoy,Correction of “A Comparative Study to Benchmark Cross-Project Defect Prediction Approaches”,201906
+https://www.computer.org/csdl/journal/ts/2019/04/08186224/13rRUxASuI7,An Empirical Study on API Usages,201904
+https://www.computer.org/csdl/journal/ts/2019/04/08125155/13rRUwInuY2,Automatic Generation of Tests to Exploit XML Injection Vulnerabilities in Web Applications,201904
+https://www.computer.org/csdl/journal/ts/2019/04/08120000/13rRUwInvuw,Combining Code and Requirements Coverage with Execution Cost for Test Suite Reduction,201904
+https://www.computer.org/csdl/journal/ts/2019/04/08168387/13rRUwIF6b6,On the Multiple Sources and Privacy Preservation Issues for Heterogeneous Defect Prediction,201904
+https://www.computer.org/csdl/journal/ts/2019/04/08119996/13rRUIM2VIK,Smart Bound Selection for the Verification of UML/OCL Class Diagrams,201904
+https://www.computer.org/csdl/journal/ts/2018/12/08049385/17D45XH89oH,A Study of Social Interactions in Open Source Component Use,201812
+https://www.computer.org/csdl/journal/ts/2018/12/08047991/17D45WHONql,Collaborative Model-Driven Software Engineering: A Classification Framework and a Research Map,201812
+https://www.computer.org/csdl/journal/ts/2018/12/08052533/17D45WaTkma,EARMO: An Energy-Aware Refactoring Approach for Mobile Apps,201812
+https://www.computer.org/csdl/journal/ts/2018/12/08081836/17D45WK5Ars,Entropy Based Software Reliability Analysis of Multi-Version Open Source Software,201812
+https://www.computer.org/csdl/journal/ts/2018/12/08052546/17D45WUj91n,On the Use of Hidden Markov Model to Predict the Time to Fix Bugs,201812
+https://www.computer.org/csdl/journal/ts/2018/12/08048025/17D45WK5Arg,Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports,201812
+https://www.computer.org/csdl/journal/ts/2018/12/08049300/17D45VTRozN,Tracking Load-Time Configuration Options,201812
+https://www.computer.org/csdl/journal/ts/2018/09/07972992/13Jkra3k9s5,A Comparative Study to Benchmark Cross-Project Defect Prediction Approaches,201809
+https://www.computer.org/csdl/journal/ts/2018/09/07987793/13JkrdEqRGT,Enhancing the Description-to-Behavior Fidelity in Android Apps with Privacy Policy,201809
+https://www.computer.org/csdl/journal/ts/2018/09/07953550/13Jkr9ZUXTl,Global-Aware Recommendations for Repairing Violations in Exception Handling,201809
+https://www.computer.org/csdl/journal/ts/2018/09/07959597/13Jkr9Oz0GQ,Heterogeneous Defect Prediction,201809
+https://www.computer.org/csdl/journal/ts/2018/09/07953505/13ElNJafWo0,Towards Prioritizing Documentation Effort,201809
+https://www.computer.org/csdl/journal/ts/2019/01/08605418/17D45WaTkkd,Editorial: State of the Journal,201901
+https://www.computer.org/csdl/journal/ts/2019/01/08081817/17D45XeKgxW,"A Rigorous Framework for Specification, Analysis and Enforcement of Access Control Policies",201901
+https://www.computer.org/csdl/journal/ts/2019/01/08089448/17D45WaTknO,Automatic Software Repair: A Survey,201901
+https://www.computer.org/csdl/journal/ts/2019/01/08057860/17D45WaTkmb,Listening to the Crowd for the Release Planning of Mobile Apps,201901
+https://www.computer.org/csdl/journal/ts/2019/01/08094304/17D45Vw15wj,What Makes a Great Manager of Software Engineers?,201901
+https://www.computer.org/csdl/journal/ts/2019/01/08605391/17D45WXIkBs,2018 Reviewers List,201901
+https://www.computer.org/csdl/journal/ts/2019/01/08605397/17D45We0UEQ,2018 Index IEEE Transactions on Software Engineering Vol. 44,201901
+https://www.computer.org/csdl/journal/ts/2019/02/08097045/17D45XeKgws,A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction,201902
+https://www.computer.org/csdl/journal/ts/2019/02/08114267/17D45VsBU6k,Automated Refactoring of OCL Constraints with Search,201902
+https://www.computer.org/csdl/journal/ts/2019/02/08105894/17D45WwsQ5S,Gray Computing: A Framework for Computing with Background JavaScript Tasks,201902
+https://www.computer.org/csdl/journal/ts/2019/02/08097044/17D45XeKgny,Toward a Smell-Aware Bug Prediction Model,201902
+https://www.computer.org/csdl/journal/ts/2018/11/08046093/17D45XtvpaG,Data Scientists in Software Teams: State of the Art and Challenges,201811
+https://www.computer.org/csdl/journal/ts/2018/11/08008800/17D45XeKgxV,Engineering Trustworthy Self-Adaptive Software with Dynamic Assurance Cases,201811
+https://www.computer.org/csdl/journal/ts/2018/11/08031055/17D45WB0qbG,Expanding Queries for Code Search Using Semantically Related API Class-names,201811
+https://www.computer.org/csdl/journal/ts/2018/11/08074764/17D45VsBU7k,Metamorphic Testing of RESTful Web APIs,201811
+https://www.computer.org/csdl/journal/ts/2018/11/08024001/17D45XfSESY,Predicting Future Developer Behavior in the IDE Using Topic Models,201811
+https://www.computer.org/csdl/journal/ts/2018/11/08038023/17D45Xcttk4,Using Local Clocks to Reproduce Concurrency Bugs,201811
+https://www.computer.org/csdl/journal/ts/2018/11/07990255/17D45Xh13vK,Authors’ Reply to “Comments on ‘Researcher Bias: The Use of Machine Learning in Software Defect Prediction’”,201811
+https://www.computer.org/csdl/journal/ts/2018/10/07994647/14qdcQYxEnm,A Theoretical and Empirical Study of Diversity-Aware Mutation Adequacy Criterion,201810
+https://www.computer.org/csdl/journal/ts/2018/10/07990187/14qdcSYiL5w,Coordination Challenges in Large-Scale Software Development: A Case Study of Planning Misalignment in Hybrid Settings,201810
+https://www.computer.org/csdl/journal/ts/2018/10/07997917/14qdcQ4CFKF,Measuring Program Comprehension: A Large-Scale Field Study with Professionals,201810
+https://www.computer.org/csdl/journal/ts/2018/10/08038053/14qdd6qPrvb,The Scent of a Smell: An Extensive Comparison Between Textual and Structural Smells,201810
+https://www.computer.org/csdl/journal/ts/2018/10/07990580/14qdcPMJWyB,Two-Phase Assessment Approach to Improve the Efficiency of Refactoring Identification,201810
+https://www.computer.org/csdl/journal/ts/2018/07/08259332/13rRUwhHcKY,Effectively Incorporating Expert Knowledge in Automated Software Remodularisation,201807
+https://www.computer.org/csdl/journal/ts/2018/07/07955079/13rRUwvT9i0,Implementing and Evaluating Candidate-Based Invariant Generation,201807
+https://www.computer.org/csdl/journal/ts/2018/07/08355713/13rRUxYrbO9,Mining Semantic Loop Idioms,201807
+https://www.computer.org/csdl/journal/ts/2018/07/08344505/13rRUxly97o,On Accelerating Source Code Analysis at Massive Scale,201807
+https://www.computer.org/csdl/journal/ts/2018/07/08354906/13rRUILtJnN,On the Semantics of Distributed Reactive Programming: The Cost of Consistency,201807
+https://www.computer.org/csdl/journal/ts/2018/08/07987041/13rRUxjQyqR,A Comparison of Program Comprehension Strategies by Blind and Sighted Programmers,201808
+https://www.computer.org/csdl/journal/ts/2018/08/07939995/13rRUEgs2NQ,A Formal Specification and Verification Framework for Timed Security Protocols,201808
+https://www.computer.org/csdl/journal/ts/2018/08/07932530/13rRUILLkxc,A Survey of Recent Trends in Testing Concurrent Software Systems,201808
+https://www.computer.org/csdl/journal/ts/2018/08/07929422/13rRUxC0SxF,Control-Theoretical Software Adaptation: A Systematic Literature Review,201808
+https://www.computer.org/csdl/journal/ts/2018/06/07900400/13rRUB7a12U,A PVS-Simulink Integrated Environment for Model-Based Analysis of Cyber-Physical Systems,201806
+https://www.computer.org/csdl/journal/ts/2018/06/07990590/13rRUx0gerA,MAHAKIL: Diversity Based Oversampling Approach to Alleviate the Class Imbalance Issue in Software Defect Prediction,201806
+https://www.computer.org/csdl/journal/ts/2018/06/07898472/13rRUx0Pqrg,Predicting Delivery Capability in Iterative Software Development,201806
+https://www.computer.org/csdl/journal/ts/2018/06/07962212/13rRUNvyaaY,Specialising Software for Different Downstream Applications Using Genetic Improvement and Code Transplantation,201806
+https://www.computer.org/csdl/journal/ts/2018/06/07911333/13rRUwbJD6F,Towards Model Checking Android Applications,201806
+https://www.computer.org/csdl/journal/ts/2018/04/07882714/13rRUxBa5ty,Detecting Trivial Mutant Equivalences via Compiler Optimisations,201804
+https://www.computer.org/csdl/journal/ts/2018/04/07895205/13rRUygT7zO,Hybrid Program Dependence Approximation for Effective Dynamic Impact Prediction,201804
+https://www.computer.org/csdl/journal/ts/2018/04/07874212/13rRUy0HYTr,Refactoring Inspection Support for Manual Refactoring Edits,201804
+https://www.computer.org/csdl/journal/ts/2018/04/07883939/13rRUy2YM0s,Understanding Diverse Usage Patterns from Large-Scale Appstore-Service Profiles,201804
+https://www.computer.org/csdl/journal/ts/2018/05/07898457/13rRUyeCkc3,Are Fix-Inducing Changes a Moving Target? A Longitudinal Case Study of Just-In-Time Defect Prediction,201805
+https://www.computer.org/csdl/journal/ts/2018/05/07898404/13rRUxASux4,Detecting Overly Strong Preconditions in Refactoring Engines,201805
+https://www.computer.org/csdl/journal/ts/2018/05/07888579/13rRUwI5U9w,Discipline Matters: Refactoring of Preprocessor Directives in the #ifdef Hell,201805
+https://www.computer.org/csdl/journal/ts/2018/05/07889026/13rRUyfbwsw,EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps,201805
+https://www.computer.org/csdl/journal/ts/2018/05/07888597/13rRUxAASXW,Reviving Sequential Program Birthmarking for Multithreaded Software Plagiarism Detection,201805
+https://www.computer.org/csdl/journal/ts/2018/03/07874207/13rRUILtJBD,Automatic Software Refactoring via Weighted Clustering in Method-Level Networks,201803
+https://www.computer.org/csdl/journal/ts/2018/03/07870688/13rRUwfZC2b,"Choosing Component Origins for Software Intensive Systems: In-House, COTS, OSS or Outsourcing?—A Case Survey",201803
+https://www.computer.org/csdl/journal/ts/2018/03/07852436/13rRUwvByaz,Complete and Interpretable Conformance Checking of Business Processes,201803
+https://www.computer.org/csdl/journal/ts/2018/03/07876832/13rRUwIF6b5,Formulating Criticality-Based Cost-Effective Fault Tolerance Strategies for Multi-Tenant Service-Based Systems,201803
+https://www.computer.org/csdl/journal/ts/2018/02/07909036/13rRUxNW1Vz,A Templating System to Generate Provenance,201802
+https://www.computer.org/csdl/journal/ts/2018/02/07840029/13rRUwvT9hZ,Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets,201802
+https://www.computer.org/csdl/journal/ts/2018/02/07859416/13rRUxcsYNK,Measuring the Impact of Code Dependencies on Software Architecture Recovery Techniques,201802
+https://www.computer.org/csdl/journal/ts/2018/02/07843626/13rRUxBa5oP,Semantic Slicing of Software Version Histories,201802
+https://www.computer.org/csdl/journal/ts/2017/11/07819478/13rRUxASuUL,Language Inclusion Checking of Timed Automata with Non-Zenoness,201711
+https://www.computer.org/csdl/journal/ts/2017/11/07820199/13rRUxDqSab,Model Transformation Modularization as a Many-Objective Optimization Problem,201711
+https://www.computer.org/csdl/journal/ts/2017/11/07815407/13rRUILtJBC,Testing from Partial Finite State Machines without Harmonised Traces,201711
+https://www.computer.org/csdl/journal/ts/2017/11/07820211/13rRUytF43d,Using Natural Language Processing to Automatically Detect Self-Admitted Technical Debt,201711
+https://www.computer.org/csdl/journal/ts/2017/11/07817894/13rRUxYIN6a,When and Why Your Code Starts to Smell Bad (and Whether the Smells Go Away),201711
+https://www.computer.org/csdl/journal/ts/2017/11/08048536/13rRUxCitET,Clarifications on the Construction and Use of the ManyBugs Benchmark,201711
+https://www.computer.org/csdl/journal/ts/2017/11/08024011/13rRUxcsYJ6,Comments on ScottKnottESD in Response to “An Empirical Comparison of Model Validation Techniques for Defect Prediction Models”,201711
+https://www.computer.org/csdl/journal/ts/2017/10/07814340/13rRUyfKIEX,Adaptive Multi-Objective Evolutionary Algorithms for Overtime Planning in Software Projects,201710
+https://www.computer.org/csdl/journal/ts/2017/10/07765062/13rRUyeCkc2,Automated Extraction and Clustering of Requirements Glossary Terms,201710
+https://www.computer.org/csdl/journal/ts/2017/10/07801117/13rRUwbJCYr,Deriving Bisimulation Relations from Path Extension Based Equivalence Checkers,201710
+https://www.computer.org/csdl/journal/ts/2017/10/07801138/13rRUxBa57N,Identifying Extract Method Refactoring Opportunities Based on Functional Relevance,201710
+https://www.computer.org/csdl/journal/ts/2017/10/07792694/13rRUytF43c,Software Numerical Instability Detection and Diagnosis by Combining Stochastic and Infinite-Precision Testing,201710
+https://www.computer.org/csdl/journal/ts/2017/08/07736073/13rRUwI5U9v,Automatic Contract Insertion with CCBot,201708
+https://www.computer.org/csdl/journal/ts/2017/08/07728088/13rRUILLkFq,GK-Tail+ An Efficient Approach to Learn Software Models,201708
+https://www.computer.org/csdl/journal/ts/2017/08/07755807/13rRUxDqS5K,Imprecise Matching of Requirements Specifications for Software Services Using Fuzzy Logic,201708
+https://www.computer.org/csdl/journal/ts/2017/08/07755837/13rRUwhpBFQ,Locating Software Faults Based on Minimum Debugging Frontier Set,201708
+https://www.computer.org/csdl/journal/ts/2017/08/07723818/13rRUNvgzbB,Preventing Defects: The Impact of Requirements Traceability Completeness on Software Quality,201708
+https://www.computer.org/csdl/journal/ts/2017/09/07762909/13rRUILLkxb,A Qualitative Study of Application-Level Caching,201709
+https://www.computer.org/csdl/journal/ts/2017/09/07765038/13rRUxly97n,A Survey of App Store Analysis for Software Engineering,201709
+https://www.computer.org/csdl/journal/ts/2017/09/07779159/13rRUIIVlel,Reporting Usability Defects: A Systematic Literature Review,201709
+https://www.computer.org/csdl/journal/ts/2017/09/07765073/13rRUwInvon,Static Analysis of Model Transformations,201709
+https://www.computer.org/csdl/journal/ts/2018/01/08249614/13rRUxC0SFJ,State of the Journal,201801
+https://www.computer.org/csdl/journal/ts/2018/01/08249710/13rRUygT7uv,Editorial from the New Editor in Chief,201801
+https://www.computer.org/csdl/journal/ts/2018/01/07835258/13rRUwhHcSy,A Developer Centered Bug Prediction Model,201801
+https://www.computer.org/csdl/journal/ts/2018/01/07835264/13rRUwkfB18,Eliminating Path Redundancy via Postconditioned Symbolic Execution,201801
+https://www.computer.org/csdl/journal/ts/2018/01/07833023/13rRUwkxc76,Empirical Evaluation of the Impact of Object-Oriented Code Refactoring on Quality Attributes: A Systematic Literature Review,201801
+https://www.computer.org/csdl/journal/ts/2018/01/07855791/13rRUwkfB19,Test Case Generation for Boolean Expressions by Cell Covering,201801
+https://www.computer.org/csdl/journal/ts/2018/01/08249563/13rRUzphDzA,2017 Reviewers List*,201801
+https://www.computer.org/csdl/journal/ts/2018/01/08249567/13rRUxNW1Vy,2017 Index IEEE Transactions on Software Engineering Vol. 43,201801
+https://www.computer.org/csdl/journal/ts/2017/12/07843666/13rRUwInvmP,Autofolding for Source Code Summarization,201712
+https://www.computer.org/csdl/journal/ts/2017/12/07820185/13rRUNvyagN,AutoSense: A Framework for Automated Sensitivity Analysis of Program Data,201712
+https://www.computer.org/csdl/journal/ts/2017/12/07827078/13rRUzphDzz,On the Positive Effect of Reactive Programming on Software Comprehension: An Empirical Study,201712
+https://www.computer.org/csdl/journal/ts/2017/12/07823003/13rRUNvPLbu,Reasoning About Identifier Spaces: How to Make Chord Correct,201712
+https://www.computer.org/csdl/journal/ts/2017/12/07823022/13rRUxC0SxE,Semantics-Based Obfuscation-Resilient Binary Code Similarity Comparison with Applications to Software and Algorithm Plagiarism Detection,201712
+https://www.computer.org/csdl/journal/ts/2017/12/07829407/13rRUEgarD9,"The Work Life of Developers: Activities, Switches and Perceived Productivity",201712
+https://www.computer.org/csdl/journal/ts/2017/07/07592412/13rRUB6Sq2j,A Dissection of the Test-Driven Development Process: Does It Really Matter to Test-First or to Test-Last?,201707
+https://www.computer.org/csdl/journal/ts/2017/07/07605502/13rRUwIF6b4,A Feature-Based Classification of Model Repair Approaches,201707
+https://www.computer.org/csdl/journal/ts/2017/07/07588121/13rRUyeCkc1,A Framework for Evaluating the Results of the SZZ Approach for Identifying Bug-Introducing Changes,201707
+https://www.computer.org/csdl/journal/ts/2017/07/07731135/13rRUyp7tYq,Keyword Search for Building Service-Based Systems,201707
+https://www.computer.org/csdl/journal/ts/2017/07/07637029/13rRUygBw8M,Supporting Change Impact Analysis Using a Recommendation System: An Industrial Case Study in a Safety-Critical Context,201707
+https://www.computer.org/csdl/journal/ts/2017/06/07583740/13rRUxNW1Vx,A Taxonomy and Qualitative Comparison of Program Analysis Techniques for Security Assessment of Android Software,201706
+https://www.computer.org/csdl/journal/ts/2017/06/07583721/13rRUxjQyx3,Automated Steering of Model-Based Test Oracles to Admit Real Program Behaviors,201706
+https://www.computer.org/csdl/journal/ts/2017/06/07585067/13rRUwInvAf,Online Reliability Prediction via Motifs-Based Dynamic Bayesian Networks for Service-Oriented Systems,201706
+https://www.computer.org/csdl/journal/ts/2017/06/07582553/13rRUwj7cqJ,The Value of Exact Analysis in Requirements Selection,201706
+https://www.computer.org/csdl/journal/ts/2017/04/07516652/13rRUIIVlek,An Enhanced Bailout Protocol for Mixed Criticality Embedded Software,201704
+https://www.computer.org/csdl/journal/ts/2017/04/07530877/13rRUwbJD6E,An Improved SDA Based Defect Prediction Framework for Both Within-Project and Cross-Project Class-Imbalance Problems,201704
+https://www.computer.org/csdl/journal/ts/2017/04/07516718/13rRUxZ0nXL,Efficient Dynamic Updates of Distributed Components Through Version Consistency,201704
+https://www.computer.org/csdl/journal/ts/2017/04/07516714/13rRUxZzAjf,Mining Sequences of Developer Interactions in Visual Studio for Usage Smells,201704
+https://www.computer.org/csdl/journal/ts/2017/04/07529115/13rRUx0gerz,Test Oracle Strategies for Model-Based Testing,201704
+https://www.computer.org/csdl/journal/ts/2017/05/07569018/13rRUypp59v,Approaches to Co-Evolution of Metamodels and Models: A Survey,201705
+https://www.computer.org/csdl/journal/ts/2017/05/07534833/13rRUx0geBy,A System for Profiling and Monitoring Database Access Patterns by Application Programs for Anomaly Detection,201705
+https://www.computer.org/csdl/journal/ts/2017/05/07577879/13rRUypp59w,Model-Based Self-Aware Performance and Resource Management Using the Descartes Modeling Language,201705
+https://www.computer.org/csdl/journal/ts/2017/05/07572219/13rRUEgarD8,Self-Adaptive and Online QoS Modeling for Cloud-Based Software Services,201705
+https://www.computer.org/csdl/journal/ts/2017/05/07539677/13rRUwcS1Ez,The Use of Summation to Aggregate Software Metrics Hinders the Performance of Defect Prediction Models,201705
+https://www.computer.org/csdl/journal/ts/2017/03/07876880/13rRUwkfASA,Improving Timeliness and Visibility in Publishing Software Engineering Research,201703
+https://www.computer.org/csdl/journal/ts/2017/03/07497481/13rRUx0xPKw,Automating Live Update for Generic Server Programs,201703
+https://www.computer.org/csdl/journal/ts/2017/03/07498607/13rRUxOdD4s,CACheck: Detecting and Repairing Cell Arrays in Spreadsheets,201703
+https://www.computer.org/csdl/journal/ts/2017/03/07497518/13rRUwh80II,Dependence Guided Symbolic Execution,201703
+https://www.computer.org/csdl/journal/ts/2017/03/07484672/13rRUytWFaV,Improving Automated Bug Triaging with Specialized Topic Model,201703
+https://www.computer.org/csdl/journal/ts/2017/02/07513412/13rRUxd2b0j,ARENA: An Approach for the Automated Generation of Release Notes,201702
+https://www.computer.org/csdl/journal/ts/2017/02/07501855/13rRUx0gery,A Study of Causes and Consequences of Client-Side JavaScript Bugs,201702
+https://www.computer.org/csdl/journal/ts/2017/02/07506009/13rRUwbs1Uh,Automated Synthesis and Dynamic Analysis of Tradeoff Spaces for Object-Relational Mapping,201702
+https://www.computer.org/csdl/journal/ts/2017/02/07506264/13rRUxcsYJ5,DECAF: A Platform-Neutral Whole-System Dynamic Binary Analysis Platform,201702
+https://www.computer.org/csdl/journal/ts/2017/02/07498605/13rRUwkxc75,How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development,201702
+https://www.computer.org/csdl/journal/ts/2017/01/07497471/13rRUwInvCB,An Empirical Comparison of Model Validation Techniques for Defect Prediction Models,201701
+https://www.computer.org/csdl/journal/ts/2017/01/07466810/13rRUxASuqZ,Interaction Models and Automated Control under Partial Observable Environments,201701
+https://www.computer.org/csdl/journal/ts/2017/01/07463060/13rRUxC0SQv,Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs,201701
+https://www.computer.org/csdl/journal/ts/2017/01/07484733/13rRUIJuxrr,Process Aspects and Social Dynamics of Contemporary Code Review: Insights from Open Source Development and Industrial Practice at Microsoft,201701
+https://www.computer.org/csdl/journal/ts/2017/01/07463051/13rRUxAASVa,Timed Automata Modeling and Verification for Publish-Subscribe Structures Using Distributed Resources,201701
+https://www.computer.org/csdl/journal/ts/2017/01/07809238/13rRUyZaxsl,2016 Reviewers ListZ_$^\ast$_Z,201701
+https://www.computer.org/csdl/journal/ts/2017/01/07809252/13rRUwbs2cC,2016 Index IEEE Transactions on Software Engineering Vol. 42,201701
