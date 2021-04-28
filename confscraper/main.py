@@ -10,7 +10,7 @@ all_dfs = []
 for csv in glob(str(cs.external_dir() / "**/*.csv"), recursive=True):
     conf, year = csv.split("/")[-1].split(".")[0].split("_")[0:2]
     temp_df = pd.read_csv(csv)
-    temp_df["conference"] = conf
+    temp_df["venue"] = conf
     temp_df["year"] = year
     temp_df["num_published"] = len(temp_df)
     all_dfs.append(temp_df)
@@ -40,7 +40,7 @@ df = df[
     df.title.str.contains(r"{}".format(search_string), case=False, regex=True)
     | df.abstract.str.contains(r"{}".format(search_string), case=False, regex=True)
 ]
-df = df[df.conference != "iswc"]
+df = df[df.venue != "iswc"]
 
 
 # OUTPUT AN HTML FILE
