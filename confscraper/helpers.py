@@ -1,5 +1,6 @@
 # %%
 import pandas as pd
+import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -79,3 +80,11 @@ def scrape_esec_fse_2019(link: str, outputfile: str):
     pd.DataFrame.from_records(papers).replace(r"\n", " ", regex=True).to_csv(
         cs.external_dir() / outputfile, index=0
     )
+
+
+# %%
+def get_website(link: str):
+    """Get website soup helper."""
+    website = requests.get(link)
+    soup = BeautifulSoup(website.text, features="html.parser")
+    return soup
